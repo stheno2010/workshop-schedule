@@ -21,6 +21,13 @@
     IT業界の潮流と開発の移り変わりを紹介する。
     Spring/Junitを用いた開発を実演する。
 
+    # 勉強会のサンプル #
+    [workshop-tomcat](https://github.com/stheno2010/workshop-tomcat)
+    [workshop-struts](https://github.com/stheno2010/workshop-struts)
+    [workshop-spring-petclinic](https://github.com/stheno2010/workshop-spring-petclinic)
+    [workshop-log4j](https://github.com/stheno2010/workshop-log4j)
+    [workshop-logback](https://github.com/stheno2010/workshop-logback)
+
     # エピローグ #
     現在Springは一時期ほど使われておらず、JavaEEに移行中。
     [Spring Frameworkの今 (2013年版) #jjug_ccc #ccc_r17](http://sssslide.com/www.slideshare.net/makingx/spring-framework-2013-jjugccc-cccr17)
