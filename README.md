@@ -21,6 +21,9 @@
     IT業界の潮流と開発の移り変わりを紹介する。
     Spring/Junitを用いた開発を実演する。
 
+    # 勉強会資料 #
+    workshop-001.ppt
+
     # 勉強会のサンプル #
     [workshop-tomcat](https://github.com/stheno2010/workshop-tomcat)
     [workshop-struts](https://github.com/stheno2010/workshop-struts)
