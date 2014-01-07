@@ -6,7 +6,7 @@
     - TDD（Test Driven Development） -> 検討中。
     - FirefoxOSで開発 -> 検討中。
     - CoffeeScriptとか興味がある -> 検討中。
-    - Gitの使い方を知りたい -> 検討中。
+    - Gitの使い方を知りたい -> Gitを使うための資料を公開し、勉強会で質問を受け付ける形にする。
     - 活用事例を知りたい -> すべての回に活用事例を追加。
     - Java8がいい -> 第2回の内容に追加。
     - Chefいいね -> 前に移動。
@@ -35,31 +35,33 @@
     現在Springは一時期ほど使われておらず、JavaEEに移行中。
     [Spring Frameworkの今 (2013年版) #jjug_ccc #ccc_r17](http://sssslide.com/www.slideshare.net/makingx/spring-framework-2013-jjugccc-cccr17)
 
-### 2. 【サーバ管理ツールの使い方】 (1/10)
+### 2. 【サーバ管理ツールの使い方】 (1/17)
     Chef/Vagrantを用いたサーバ管理を開発を実演する。
+    * Gitの使い方について質問を受け付ける。
 
-### 3. 【最近/今後のWebアプリ開発】 (1/17)
+### 3. 【最近/今後のWebアプリ開発】 (1/24)
     最近のWebアプリ開発、Java8を紹介する。
     Scala/HTML5を用いた開発を実演する。
-### 4. 【GoogleAppアプリ開発】 (1/24)
+
+### 4. 【GoogleAppアプリ開発】 (1/31)
     GoogleAppの特徴、アーキテクチャを紹介する。
     GoogleAppアプリの開発を実演する。
-### 5. 【最近のDB】 (1/31)
+### 5. 【最近のDB】 (2/7)
     NoSQL、NewSQLのアーキテクチャを紹介する。
     Hadoop、Redis、Cassandraを用いた開発を紹介する。
-### 6. 【CIツールの使い方】 (2/7)
+### 6. 【CIツールの使い方】 (2/14)
     Jenkinsとか。。
-### 7. 【Androidアプリ開発】 (2/14)
+### 7. 【Androidアプリ開発】 (2/21)
     Androidアプリを実際に作ってみる。
-### 8. 【iPhoneアプリ開発】 (2/21)
+### 8. 【iPhoneアプリ開発】 (2/28)
     iPhoneアプリを実際に作ってみる。
-### 9. 【WindowsPhoneアプリ開発】 (2/28)
+### 9. 【WindowsPhoneアプリ開発】 (3/7)
     WindowsPhoneアプリを実際に作ってみる。
-### 10. 【AWS漬けの開発】 (3/7)
+### 10. 【AWS漬けの開発】 (3/14)
     AWSの特徴、アーキテクチャ例など。
     AWSべったりな開発を実際に行ってみる。
-### 11. 【WindowsAzureアプリ開発】 (3/14)
+### 11. 【WindowsAzureアプリ開発】 (3/21)
     WindowsAzureの特徴、アーキテクチャを紹介する。
     WindowsAzureアプリを実際に作ってみる。
-### 12. 【クラウド】 (3/21)
+### 12. 【クラウド】 (3/28)
     プライベートクラウドへの移行とパブリッククラウドとの共存。
