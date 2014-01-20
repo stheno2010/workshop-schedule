@@ -2,6 +2,8 @@
 =================
 
 ## リクエスト
+    - TDDの開発での実際の活用方法を知りたい -> 検討中。
+    - Chef,Jenkins,Mavenを用いた実際の開発を知りたい -> 検討中。
     - GO言語 -> 検討中。
     - TDD（Test Driven Development） -> 検討中。
     - FirefoxOSで開発 -> 検討中。
@@ -35,9 +37,15 @@
     現在Springは一時期ほど使われておらず、JavaEEに移行中。
     [Spring Frameworkの今 (2013年版) #jjug_ccc #ccc_r17](http://sssslide.com/www.slideshare.net/makingx/spring-framework-2013-jjugccc-cccr17)
 
-### 2. 【サーバ管理ツールの使い方】 (1/17)
+### 2. 【Chef/Vagrant】 (1/17)
+    # 紹介 #
     Chef/Vagrantを用いたサーバ管理を開発を実演する。
-    * Gitの使い方について質問を受け付ける。
+
+    # 勉強会資料 #
+    workshop-002.ppt（一部修正予定）
+
+    # 勉強会のサンプル #
+    （BoxやRecipeをアップ予定）
 
 ### 3. 【最近/今後のWebアプリ開発】 (1/24)
     最近のWebアプリ開発、Java8を紹介する。
