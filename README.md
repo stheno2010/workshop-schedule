@@ -10,7 +10,7 @@
     - CoffeeScriptとか興味がある -> 検討中。
     - Gitの使い方を知りたい -> git.md公開。随時質問受付中。
     - 活用事例を知りたい -> すべての回に活用事例を追加。
-    - Java8がいい -> 第2回の内容に追加。
+    - Java8がいい -> 第3回の内容に追加。
     - Chefいいね -> 前に移動。
     - GoogleAppはおもしろそう -> 前に移動。
     - 1時間程度の勉強会で開発までは無理では・・・ -> 実演ベースに修正。
@@ -46,9 +46,11 @@
 
     # 勉強会資料 #
     workshop-002.ppt（一部修正予定）
+    workshop-002-001.xls
 
     # 勉強会のサンプル #
-    （BoxやRecipeをアップ予定）
+    [workshop-chef-vagrant](https://github.com/stheno2010/workshop-chef-vagrant)
+    （運用編をアップ予定）
 
 ### 3. 【最近/今後のWebアプリ開発】 (2/14)
     最近のWebアプリ開発、Java8を紹介する。
